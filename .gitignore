@@ -1,0 +1,12 @@
+test_dir
+cleos_test_dir
+
+my_frontend
+my_frontend1
+
+fast_go.sh
+docker_makefile.sh
+eos_docker_latest.sh
+constant_test.sh
+
+eosio_docker/scripts/*test.sh
